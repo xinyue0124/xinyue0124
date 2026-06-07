@@ -2,13 +2,16 @@
 
 # 🍮 Hi, I'm Margaret (Xinyue) Zhang 🍮
 
-<img src="assets/Pompompurin_2025_results.webp" width="200" alt="champion pompompurin"/>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/200px-Pompompurin.png" width="165" alt="pompompurin hug"/>
-
-**M.S. Computer Science @ Northwestern** · Software Engineer & indie game tinkerer
-
-I build multi-agent AI systems by day, and otome games & Unity worlds by night.
+<table border="0">
+<tr>
+<td width="90" align="center"><img src="assets/Pompompurin_2025_results.webp" width="80" alt="champion pompompurin"/></td>
+<td align="center">
+<b>M.S. Computer Science @ Northwestern</b> · Software Engineer &amp; indie game tinkerer<br><br>
+I build multi-agent AI systems by day, and otome games &amp; Unity worlds by night.
+</td>
+<td width="90" align="center"><img src="assets/200px-Pompompurin.png" width="80" alt="pompompurin hug"/></td>
+</tr>
+</table>
 
 <a href="https://www.linkedin.com/in/xinyue-zhang-zxy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:xinyuezhang2025@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-EBB0CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
