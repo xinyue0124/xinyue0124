@@ -1,13 +1,14 @@
 <div align="center">
 # 🍮 Hi, I'm Xinyue (Margaret) Zhang 🍮
 
-<img src="assets/Pompompurin_2025_results.webp" width="200" alt="champion pompompurin"/>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/200px-Pompompurin.png" width="165" alt="pompompurin hug"/>
+<img src="assets/Pompompurin_2025_results.webp" width="80" align="left" alt="champion pompompurin"/>
+<img src="assets/200px-Pompompurin.png" width="80" align="right" alt="pompompurin hug"/>
 
 **M.S. Computer Science @ Northwestern** · Software Engineer & indie game tinkerer
 
 I build multi-agent AI systems by day, and otome games & Unity worlds by night.
+
+<br clear="all"/>
 
 <a href="Xinyue_Margaret_Zhang_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF9EC4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 <a href="https://www.linkedin.com/in/xinyue-zhang-zxy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -26,7 +27,6 @@ Systems that are both smart and trustworthy — and the occasional cozy game.
 | **KYMION** | A multi-agent LLM engine whose runtime is checked against a TLA+ spec, with a confidence-threshold reliability guardrail | LangGraph · TLA+ · FastAPI |
 | **Automated TA** | RAG teaching assistant shipped to production — 200+ students, 24/7 | Node.js · React/TS · pgvector · LLM |
 | **Biohybrid Robot** | Living plants as zero-power CO₂ sensors for robot navigation — built in Unity | Unity · Python · Embedded |
-| **My Unity games** | Personal otome / narrative game experiments | Unity · C# |
 
 B.S. CS @ UW–Madison (Dean's List) &nbsp;·&nbsp; co-authoring a paper on bio-integrated robotics
 
@@ -48,7 +48,7 @@ B.S. CS @ UW–Madison (Dean's List) &nbsp;·&nbsp; co-authoring a paper on bio-
 | **Languages** | Python · Java · C/C++ · C# · TypeScript/JavaScript · SQL · Go · HTML/CSS |
 | **Frameworks** | React · React Native · Vue.js · Node.js · Spring Boot · FastAPI |
 | **AI / ML** | PyTorch · TensorFlow · LangChain/LangGraph · RAG · OpenAI API · Hugging Face · scikit-learn · pgvector |
-| **Infra & Data** | AWS · Docker · PostgreSQL · MySQL · Redis · Kafka · Spark · Hadoop/HDFS · gRPC · GitHub Actions · Git |
+| **Infra & Data** | AWS · Docker · PostgreSQL · MySQL · Redis · Kafka · Spark · Hadoop/HDFS · gRPC |
 | **Game / Creative** | Unity · C# · NetLogo |
 | **Formal methods** | TLA+ · Lean 4 |
 
