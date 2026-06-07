@@ -1,41 +1,62 @@
-<h1 align="center">Hi, I'm Xinyue (Margaret) Zhang 👋</h1>
+<div align="center">
 
-<p align="center">
-  M.S. Computer Science @ Northwestern · Software Engineer<br>
-  Building <b>reliable multi-agent AI systems</b> — LangGraph orchestration + TLA+ formal verification
-</p>
+# 🍮 Hi, I'm Margaret (Xinyue) Zhang 🍮
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/xinyue-zhang-zxy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:xinyuezhang2025@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="assets/pompompurin-champion.png" width="200" alt="champion pompompurin"/>
+
+**M.S. Computer Science @ Northwestern** · Software Engineer & indie game tinkerer
+✨ I build multi-agent AI systems by day, and otome games & Unity worlds by night ✨
+
+<a href="https://www.linkedin.com/in/xinyue-zhang-zxy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:xinyuezhang2025@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-EBB0CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
 
 ---
 
-### 🔭 About me
-- 🎓 M.S. CS @ **Northwestern**; B.S. CS @ **UW–Madison** (Dean's List)
-- 🤖 Focused on **multi-agent AI** and **formal verification** — making LLM systems provably correct
-- 💼 Prev. **SDE intern** ×2 — backend performance, concurrency, full-stack delivery
-- 📄 Co-authoring a research paper on **bio-integrated robotics & low-power sensing**
-- 🟢 **Open to SWE / AI Engineer / Forward Deployed roles** (CPT internship + 2027 new grad)
+### 👩‍💻 What I build
 
-### 🚀 Featured Projects
+I like making systems that are both **smart and trustworthy** — and the occasional cozy game.
+
 | Project | What it is | Stack |
 |---|---|---|
-| **KYMION** | 8-agent, 5-stage LLM orchestration engine whose runtime mirrors a TLA+ spec state-for-state, with a confidence-threshold reliability guardrail | LangGraph · TLA+ · FastAPI · Redis |
-| **Automated TA** | RAG-based teaching assistant shipped to production, serving 200+ Northwestern students 24/7 | Node.js · React/TS · PostgreSQL · pgvector · LLM |
-| **Biohybrid Robot** | Using living plants as zero-power CO₂ sensors for robot navigation (infotaxis) | Unity · Python · Embedded |
+| **KYMION** | A multi-agent LLM engine whose runtime is checked against a TLA+ spec, with a confidence-threshold reliability guardrail | LangGraph · TLA+ · FastAPI |
+| **Automated TA** | RAG teaching assistant shipped to production — 200+ students, 24/7 | Node.js · React/TS · pgvector · LLM |
+| **Biohybrid Robot** | Living plants as zero-power CO₂ sensors for robot navigation — built in Unity | Unity · Python · Embedded |
+| **My Unity games** | Personal otome / narrative game experiments 🎮 | Unity · C# |
+
+🎓 B.S. CS @ UW–Madison (Dean's List) · 📄 co-authoring a paper on bio-integrated robotics
+🟢 **Open to SWE / AI Engineer / Forward Deployed roles** (CPT internship + 2027 new grad)
+
+---
+
+### 🌸 When I'm not coding
+
+- 🎮 **Otome games** (オトメイト / Otomate) — and making my own narrative games in **Unity**
+- 🍮 Certified **Pompompurin** enthusiast
+- 🖤 Into the **jirai-kei (地雷系)** aesthetic
+- 📺 Anime & character-driven storytelling
+
+<div align="center">
+<img src="assets/pompompurin-hug.png" width="130" alt="pompompurin hug"/>
+</div>
+
+---
 
 ### 🛠️ Tech Stack
-**Languages:** Python · Java · C/C++ · TypeScript/JavaScript · SQL · Go
+
+**Languages:** Python · Java · C/C++ · C# · TypeScript/JavaScript · SQL · Go
+**Game / Creative:** Unity · C# · NetLogo
 **AI/ML:** PyTorch · LangChain/LangGraph · RAG · OpenAI API · Hugging Face
 **Infra:** AWS · Docker · Redis · PostgreSQL · Kafka · gRPC
-**Formal methods:** TLA+ · Lean 4 · NetLogo
+**Formal methods:** TLA+ · Lean 4
 
-### 📈 Currently
-- Grinding coding interviews & system design for 2027 new grad recruiting
-- Building out KYMION's verification engine
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xinyue0124&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub stats">
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xinyue0124&show_icons=true&hide_border=true&count_private=true&theme=cobalt2&icon_color=EBB0CF&title_color=EBB0CF" height="160" alt="GitHub stats">
+
+<i>「 build cute things, prove they work 」</i>
+
+</div>
