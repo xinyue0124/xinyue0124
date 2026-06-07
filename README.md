@@ -3,6 +3,8 @@
 # 🍮 Hi, I'm Margaret (Xinyue) Zhang 🍮
 
 <img src="assets/Pompompurin_2025_results.webp" width="200" alt="champion pompompurin"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/200px-Pompompurin.png" width="165" alt="pompompurin hug"/>
 
 **M.S. Computer Science @ Northwestern** · Software Engineer & indie game tinkerer
 
@@ -37,20 +39,17 @@ B.S. CS @ UW–Madison (Dean's List) &nbsp;·&nbsp; co-authoring a paper on bio-
 - **Otome games** (オトメイト / Otomate) — and making my own narrative games in Unity
 - Into the **jirai-kei (地雷系)** aesthetic
 
-<div align="center">
-<img src="assets/200px-Pompompurin.png" width="130" alt="pompompurin hug"/>
-</div>
-
 ---
 
 ## Tech Stack
 
 | | |
 |---|---|
-| **Languages** | Python · Java · C/C++ · C# · TypeScript/JavaScript · SQL · Go |
+| **Languages** | Python · Java · C/C++ · C# · TypeScript/JavaScript · SQL · Go · HTML/CSS |
+| **Frameworks** | React · React Native · Vue.js · Node.js · Spring Boot · FastAPI |
+| **AI / ML** | PyTorch · TensorFlow · LangChain/LangGraph · RAG · OpenAI API · Hugging Face · scikit-learn · pgvector |
+| **Infra & Data** | AWS · Docker · PostgreSQL · MySQL · Redis · Kafka · Spark · Hadoop/HDFS · gRPC · GitHub Actions · Git |
 | **Game / Creative** | Unity · C# · NetLogo |
-| **AI / ML** | PyTorch · LangChain/LangGraph · RAG · OpenAI API · Hugging Face |
-| **Infra** | AWS · Docker · Redis · PostgreSQL · Kafka · gRPC |
 | **Formal methods** | TLA+ · Lean 4 |
 
 ---
