@@ -2,7 +2,7 @@
 
 # 🍮 Hi, I'm Margaret (Xinyue) Zhang 🍮
 
-<img src="assets/pompompurin-champion.png" width="200" alt="champion pompompurin"/>
+<img src="assets/Pompompurin_2025_results.webp" width="200" alt="champion pompompurin"/>
 
 **M.S. Computer Science @ Northwestern** · Software Engineer & indie game tinkerer
 
@@ -38,7 +38,7 @@ B.S. CS @ UW–Madison (Dean's List) &nbsp;·&nbsp; co-authoring a paper on bio-
 - Into the **jirai-kei (地雷系)** aesthetic
 
 <div align="center">
-<img src="assets/pompompurin-hug.png" width="130" alt="pompompurin hug"/>
+<img src="assets/200px-Pompompurin.png" width="130" alt="pompompurin hug"/>
 </div>
 
 ---
