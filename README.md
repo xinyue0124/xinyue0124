@@ -1,7 +1,5 @@
 <div align="center">
-
 # 🍮 Hi, I'm Margaret (Xinyue) Zhang 🍮
-
 <table border="0">
 <tr>
 <td width="90" align="center"><img src="assets/Pompompurin_2025_results.webp" width="80" alt="champion pompompurin"/></td>
