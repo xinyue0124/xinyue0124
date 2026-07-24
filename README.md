@@ -35,6 +35,20 @@ B.S. CS @ UW–Madison (Dean's List) &nbsp;·&nbsp; co-authoring a paper on bio-
 
 ---
 
+## Coursework & Systems Projects
+
+Smaller systems built across coursework — cloud services, databases, and full-stack apps.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Pet Rescue](https://github.com/xinyue0124/cs310-final)** | Full-stack adoption marketplace — listings, checkout, image storage, email notifications | Node.js · AWS RDS/S3/SES |
+| **[Cloud Auth Service](https://github.com/xinyue0124/cs310-lambda-auth)** | Serverless auth/registration microservice with bcrypt password hashing | AWS Lambda · MySQL |
+| **[Mini Relational DB](https://github.com/xinyue0124/cs564-database-project)** | SQL schema design + C++ relational operator implementations | SQL · C++ |
+| **[Couple App](https://github.com/xinyue0124/couple-app)** | Full-stack WeChat mini program | Vue · uni-app · TypeScript |
+| **[CS571 Web App](https://github.com/xinyue0124/cs571-web-app)** | HCI coursework web application | Vue · Vite |
+
+---
+
 ## When I'm not coding
 
 - **Otome games** (オトメイト / Otomate) — and making my own narrative games in Unity
