@@ -43,7 +43,7 @@ B.S. CS @ UW–Madison (Dean's List) · graduating June 2027
 | **[Animal Rescue Hub](https://github.com/xinyue0124/cs310-final)** | Adoption platform for a local Evanston cat rescue: listings, photo storage, species detection, and email notifications. The rescue uses it now | Node.js · MySQL · AWS RDS/S3/SES/Rekognition |
 | **[Cloud Auth Service](https://github.com/xinyue0124/cs310-lambda-auth)** | Serverless registration and login service with bcrypt password hashing | AWS Lambda · MySQL |
 | **[Mini Relational DB](https://github.com/xinyue0124/cs564-database-project)** | SQL schema design and C++ relational operators for a small database engine | SQL · C++ |
-| **KYMION** (team of 5) | Multi-agent LLM engine whose runtime is checked against a TLA+ spec | LangGraph · TLA+ · FastAPI |
+| **KYMION** | Multi-agent LLM engine whose runtime is checked against a TLA+ spec | LangGraph · TLA+ · FastAPI |
 | **[Couple App](https://github.com/xinyue0124/couple-app)** | Full-stack WeChat mini program | Vue · uni-app · TypeScript |
 | **[CS571 Web App](https://github.com/xinyue0124/cs571-web-app)** | HCI coursework web application | Vue · Vite |
 
