@@ -5,11 +5,15 @@
 <img src="assets/Pompompurin_2025_results.webp" width="80" align="left" alt="champion pompompurin"/>
 <img src="assets/200px-Pompompurin.png" width="80" align="right" alt="pompompurin hug"/>
 
-**M.S. Computer Science @ Northwestern** · Backend & Data Infrastructure
+**M.S. Computer Science @ Northwestern** · Applied AI, Backend & Data Infrastructure
 
-I build backend and data systems that stay correct under load, and otome games & Unity worlds by night.
+I build AI tools and backend systems that hold up under load. I also make narrative games in Unity.
 
 <br clear="all"/>
+
+**Open to 2027 new-grad roles in applied AI, backend engineering, and data infrastructure.**
+
+Available July 2027 in the U.S. and April or October 2027 in Japan.
 
 <a href="Xinyue_Margaret_Zhang_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF9EC4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"></a>
 <a href="https://www.linkedin.com/in/xinyue-zhang-zxy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -21,18 +25,17 @@ I build backend and data systems that stay correct under load, and otome games &
 
 ## What I work on
 
-I care about what happens when many users hit the same data at once, and when parts of a system crash.
+I’m interested in how to make AI useful in everyday workflows and keep the systems behind it reliable.
 At my internship at a medical device company, I fixed lock-timeout failures on hot inventory records and added a Redis cache to the inventory platform.
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Automated TA](https://github.com/xinyue0124/automated-ta)** | AI teaching assistant used by 200+ students. Multi-tenant REST APIs, and a retrieval pipeline from document chunking to pgvector search | Node.js · React/TS · PostgreSQL · pgvector · Docker |
-| **Waypoint** 🚧 | In progress. A data platform for in-transit inventory events that stays correct when parts of it crash: outbox + CDC into Kafka, an idempotent consumer checked with TLA+, and an Iceberg lakehouse | Postgres · Debezium · Kafka · TLA+ · Iceberg · Airflow |
+| **[Automated TA](https://github.com/xinyue0124/automated-ta)** | AI teaching assistant used by 200+ Northwestern students. This public repo is the early course version, with REST APIs and a retrieval pipeline that searches course materials using pgvector. | Node.js · React/TS · PostgreSQL · pgvector · Docker |
+| **Serving Under Load** | Model serving with gRPC, concurrent requests, and inference caching; streaming and batch pipelines with Kafka and Spark | gRPC · Kafka · Spark · HDFS · Python |
+| **LM Forge** | Built a GPT-2-style Transformer and LoRA adapters from scratch and fine-tuned BERT for question answering | PyTorch · Transformers · LoRA |
 | **Biohybrid Robot** | Living plants as zero-power CO₂ sensors for robot navigation, built in Unity. Co-authoring a research paper | Unity · Python |
 
-B.S. CS @ UW–Madison (Dean's List) · graduating June 2027
-
-**Open to backend, data infrastructure, and SWE roles** · 2027 new grad
+M.S. in Computer Science, Northwestern University, expected 2027 · B.S. in Computer Science, UW–Madison, 2024 · AWS Certified AI Practitioner
 
 ---
 
